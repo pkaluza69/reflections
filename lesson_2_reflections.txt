@@ -1,0 +1,4 @@
+Init a Git in order to prepare GIT to do it's job in the respective directory
+Not files will be tracked though. One has to add files in order to be tracked by GIT
+
+A statging area is used to define the files that should be in one commit. therefore it's used to select only necessary files
